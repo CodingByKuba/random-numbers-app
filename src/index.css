@@ -56,7 +56,7 @@ section {
   gap: 0.4rem;
   justify-content: center;
   align-items: center;
-  padding-bottom: 1rem;
+  padding: 0.5rem;
 }
 
 article {
